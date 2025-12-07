@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://zanlinni.github.io/sitemap.xml
+Sitemap: https://nzl-thu.github.io/sitemap.xml
